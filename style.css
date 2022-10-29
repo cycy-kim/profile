@@ -1,0 +1,11 @@
+#main_div {
+  text-align: center;
+}
+
+#main_div #cat{
+  color:blue;
+}
+
+#main_div #dog{
+  color:red;
+}
